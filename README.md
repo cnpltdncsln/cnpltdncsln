@@ -15,7 +15,7 @@ Sosyal medyayı kullanabilirsiniz:
 [![](https://img.shields.io/badge/Twitter-@cnpltdncsln-blue)](https://twitter.com/cnpltdncsln)
 
 [![](https://img.shields.io/badge/Instagram-@cnpltdncsln-blue)](https://instagram.com/cnpltdncsln)
-[![](https://img.shields.io/badge/Keybase-@cnpltdncslnx-blue)](https://keybase.io/cnpltdncslnx)
+[![](https://img.shields.io/badge/Keybase-@dncslncnplt-blue)](https://keybase.io/dncslncnplt)
 
 ### GitHub İstatistikleri
 [![Canpolat Dinçaslan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cnpltdncsln&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/cnpltdncsln)
